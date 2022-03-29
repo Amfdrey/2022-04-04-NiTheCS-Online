@@ -158,8 +158,8 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online.
-  The instructors will provide you with the information you will need to connect to this meeting.
+  <strong>Where:</strong> Please use this zoom room: https://zoom.us/j/95682789811?pwd=UEh3RTlMbWhRa2NqZTZyS0xsZElFQT09
+  passcode: 454466 
 </p>
 {% endif %}
 
